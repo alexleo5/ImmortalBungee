@@ -48,5 +48,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: 49.12.82.39:27098
+    address: 
     restricted: false
