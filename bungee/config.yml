@@ -33,7 +33,7 @@ server_connect_timeout: 5000
 timeout: 30000
 stats: c074d783-7d00-4779-a09d-3ff0e5a9be1a
 player_limit: -1
-ip_forward: false
+ip_forward: true
 groups:
   md_5:
   - admin
